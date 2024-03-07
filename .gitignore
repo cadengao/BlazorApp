@@ -1,0 +1,10 @@
+bin/debug/
+bin/Debug/net8.0/BlazorApp.dll
+bin/Debug/net8.0/BlazorApp.pdb
+obj/Debug/net8.0/BlazorApp.AssemblyInfo.cs
+obj/Debug/net8.0/BlazorApp.AssemblyInfoInputs.cache
+obj/Debug/net8.0/BlazorApp.dll
+obj/Debug/net8.0/BlazorApp.pdb
+obj/Debug/net8.0/ref/BlazorApp.dll
+obj/Debug/net8.0/refint/BlazorApp.dll
+obj/
